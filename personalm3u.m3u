@@ -139,8 +139,9 @@ http://lsdhcdnhls-lh.akamaihd.net/i/hcdnarsatHLS_2@301805/master.m3u8
 http://prepublish.f.qaotic.net/a02/ngrp:c7live01-20034_all/Playlist.m3u8|Referer=http://vmf.edge-apps.net&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:49.0) Gecko/20100101 Firefox/49.0&amp;origin=http://vmf.edge-apps.net&amp;Connection=keep-alive&amp;X-Forwarded-For=200.42.143.60
  
 #EXTINF:-1 tvg-id="el 13" group-title="Argentina - ארגנטינה" tvg-logo="",el 13
-http://prepublish.f.qaotic.net/a03/ngrp:el13_live01-100083_all/Playlist.m3u8|Referer=http://vmf.edge-apps.net&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:49.0) Gecko/20100101 Firefox/49.0&amp;origin=http://vmf.edge-apps.net&amp;Connection=keep-alive&amp;X-Forwarded-For=200.42.143.60
- 
+https://tv7.mitele.uno/embed/mpd-tlf.php?canal=Trece&stream=/live/c3eds/ArtearHD/SA_Live_dash_enc_2A/ArtearHD.mpd"
+
+
 #EXTINF:-1 tvg-id="AMERICA 24" group-title="Argentina - ארגנטינה" tvg-logo="http://3.bp.blogspot.com/-NesnOUZT0zY/Umg0HN_TZWI/AAAAAAAAaks/cDTGVN7fbM0/s76/a24-america-24.PNG",AMERICA 24
 http://prepublish.f.qaotic.net/epa/ngrp:americatvlive-100056_all/Playlist.m3u8|Referer=http://vmf.edge-apps.net&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:49.0) Gecko/20100101 Firefox/49.0&amp;origin=http://vmf.edge-apps.net&amp;Connection=keep-alive&amp;X-Forwarded-For=200.42.143.60
  
