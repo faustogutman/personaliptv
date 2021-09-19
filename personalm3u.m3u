@@ -41,19 +41,10 @@ http://keshethlslive-lh.akamaihd.net/i/lin1_1@364366/index_5000_av-p.m3u8?sd=10&
 
  
 #EXTINF:-1 tvg-id="TV Pública" group-title="Argentina - ארגנטינה" tvg-logo="http://static-cdn2.ustream.tv/i/channel/picture/2/0/8/0/2080123/2080123_275_logomedio_12599415,192x192,r:1.jpg",TV Pública
-http://prepublish.f.qaotic.net/a06/ngrp:c7live02Internacional-20034_all/Playlist.m3u8|Referer=http://vmf.edge-apps.net&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:49.0) Gecko/20100101 Firefox/49.0&amp;origin=http://vmf.edge-apps.net&amp;Connection=keep-alive&amp;X-Forwarded-For=200.42.143.60
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1632114863/ei/T8RHYaufLfuB6dsPyKKPcA/ip/87.68.145.199/id/LGWYX8FwPqM.1/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAII-9fdrCe8NY8zf-23zzdT5s9tLTnjOsrBvSNiCHYq2AiAboCbAkRvgoAULRHNryMhcs2h6lfmOFUWbK-nyqO9YpA%3D%3D/file/index.m3u8
   
-#EXTINF:-1 tvg-id="One TV" group-title="Argentina - ארגנטינה" tvg-logo="",One TV
-http://server5.stweb.tv/radioone/live/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="Canal Rural" group-title="Argentina - ארגנטינה" tvg-logo="",Canal Rural
-rtsp://streamrural.cmd.com.ar:554/liverural/crural/rural1
- 
-#EXTINF:-1 tvg-id="DxTV" group-title="Argentina - ארגנטינה" tvg-logo="",DxTV
-http://186.33.227.199/DXTV/smil:DXTV.smil/chunklist_w788509661_b800000_slesp.m3u8
- 
 #EXTINF:-1 tvg-id="C5N" group-title="Argentina - ארגנטינה" tvg-logo="http://www.buenosaires54.com/images/c5n1.jpg",C5N
-http://127.0.0.1:65007/?url=https%3A//www.youtube.com/watch%26v%3DfJUi-0L_8ZY&mode=3
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1632114757/ei/5cNHYbCaDsmP1gLB04_oBQ/ip/87.68.145.199/id/NQqCjfFDWSQ.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgCNWu1NLKnY1PJ_Ck3JNy-lLOhxF6BWMVm9sI_zXgxSECIQCjPLetky6Bq0ZkLSTec9ATTAgJFZJqmFzBN9f_9tm5kQ%3D%3D/file/index.m3u8
  
  #EXTINF:-1 tvg-id="DTV Diputados" group-title="Argentina - ארגנטינה" tvg-logo="",DTV Diputados
 http://lsdhcdnhls-lh.akamaihd.net/i/hcdnarsatHLS_2@301805/master.m3u8
