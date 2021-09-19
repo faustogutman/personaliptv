@@ -1,0 +1,171 @@
+#EXTM3U
+ 
+#EXTINF:-1 tvg-id="1" tvg-name="" tvg-logo="http://images2.imagebam.com/2a/e5/7c/f061ac784878033.jpg" group-title="עידן+",ch 11 כאן
+https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_2.5k/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images2.imagebam.com/3b/9c/29/accd2c784878043.jpg" group-title="עידן+",ch 12 קשת
+https://iptv--iptv.repl.co/Hebrew/keshet_12
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://thumbs2.imagebam.com/bc/ad/be/19f5c9784877383.jpg" group-title="עידן+",ch 13 רשת
+https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index_3.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://thumbs2.imagebam.com/bc/ad/be/19f5c9784877383.jpg" group-title="עידן+",ch 26
+https://d2lckchr9cxrss.cloudfront.net/out/v1/c73af7694cce4767888c08a7534b503c/index_3.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://thumbs2.imagebam.com/aa/8b/9f/fe51a9784877423.jpg" group-title="עידן+",ch 20 מורשת
+https://splittv.ch20-cdnwiz.com/hls/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://thumbs2.imagebam.com/01/9b/25/afe543833363533.jpg" group-title="עידן+",ch 21 ערוץ הקניות
+http://82.80.192.30/shoppingil_ShoppingIL21TVRepeat/_definst_/smil:ShoppingIL21TV.smil/chunklist_w2043660694_b2128000.m3u8?ttl=1524643697&cdn_token=5a6c4f1270440ae72118c8ae16c58de4|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/600.3.18 (KHTML, like Gecko) Version/8.0.3 Safari/600.3.18
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images2.imagebam.com/de/cc/c9/4c7f3e788799523.png" group-title="עידן+",ch 23 חינוכית
+https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://thumbs2.imagebam.com/ec/75/53/eb02a3784877443.jpg" group-title="עידן+",ch 24
+http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_2200_av-b.m3u8?sd=10&rebase=on&hdntl=exp=1521305784~acl=%2f*~data=hdntl~hmac=0b04f206fb1bb2004ae6ab7c02a951d97bfdd220397c0516bb6057206493c8ea|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36&Cookie=hdntl%3Dexp%3D1521305784%7Eacl%3D%252f%2A%7Edata%3Dhdntl%7Ehmac%3D0b04f206fb1bb2004ae6ab7c02a951d97bfdd220397c0516bb6057206493c8ea;_alid_%3DYrk%2B1GiREjTrEWpIW8Vc7Q%3D%3D
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://thumbs2.imagebam.com/7f/c9/59/47d865784878303.jpg" group-title="עידן+",ch 33 כאן
+https://62-90-90-52.vidnt.com/ipbc_IPBCmakantvLVMRepeat/_definst_/smil:IPBCmakantvLVM.smil/chunklist_w48594442_b1928000.m3u8?ttl=1521305805&cdn_token=ab3709e2615d22dacf910f3d553f630c|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://thumbs2.imagebam.com/83/d6/c4/66b29e784878143.jpg" group-title="עידן+",ch 99  כנסת
+https://contact.gostreaming.tv/Knesset/myStream/chunklist_w2072850535.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://thumbs2.imagebam.com/c6/b0/f7/9ace12784877973.jpg" group-title="עידן++",ch i24 English
+https://stream-13.dc3.dailymotion.com/20/dm/3/x29atae/live-4.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://thumbs2.imagebam.com/bc/a0/fd/e23f51784878413.jpg" group-title="עידן+", YNET LIVE
+https://ynet-lh.akamaihd.net/i/ynet_1@123290/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://thumbs2.imagebam.com/de/fd/ae/384417784878073.jpg" group-title="עידן++", HD קשת - המיטב
+http://keshethlslive-lh.akamaihd.net/i/lin1_1@364366/index_5000_av-p.m3u8?sd=10&rebase=on|User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; Touch; rv:11.0) like Gecko&Cookie=_alid_%3Db37lix3kxexAPjheN892ug%3D%3D
+
+#EXTINF:-1 tvg-id="LA1" group-title="Spain - ספרד" tvg-logo="",LA1
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7.m3u8
+ 
+#EXTINF:-1 tvg-id="LA2" group-title="Spain - ספרד" tvg-logo="",LA2
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4_gl0/la2_lv3_aosv4_gl0.isml/la2_lv3_aosv4_gl0.m3u8
+ 
+#EXTINF:-1 tvg-id="24h" group-title="Spain - ספרד" tvg-logo="http://static.filmon.com/couch/channels/2777/extra_big_logo.png",24h
+http://hlsackdn_gl8-lh.akamaihd.net/i/hlsdvrlive_1@81183/master.m3u8
+ 
+#EXTINF:-1 tvg-id="Hispan TV" group-title="Spain - ספרד" tvg-logo="http://static.filmon.com/couch/channels/1997/extra_big_logo.png",Hispan TV
+http://178.32.255.199:1935/live/hispantv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="NEOX" group-title="Spain - ספרד" tvg-logo="http://www.tavo.es/studio/wp-content/uploads/vector__0004_Group-1.jpg",NEOX
+http://a3live-lh.akamaihd.net/i/nxhls/geoneox_1@35261/index_4_av-b.m3u8?sd=10&rebase=on||X-Forwarded-For=194.224.72.187
+ 
+#EXTINF:-1 tvg-id="NOVA" group-title="Spain - ספרד" tvg-logo="",NOVA
+Http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-p.m3u8
+ 
+#EXTINF:-1 tvg-id="Huesca Television" group-title="Spain - ספרד" tvg-logo="",Huesca Television
+rtmp://streaming2.radiohuesca.com/live swfUrl=http://www.radiohuesca.com/swf/JWPlayer/player.swf pageUrl=http://www.radiohuesca.com/directo-htv playpath=huescatv live=true
+ 
+#EXTINF:-1 tvg-id="RTPA" group-title="Spain - ספרד" tvg-logo="http://1.bp.blogspot.com/_65hJ08LWbYo/S_qxLqe2IaI/AAAAAAAAAQU/9pHTMkIgT-4/s320/tpa%5B1%5D.jpg",RTPA
+http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone-multi/main.m3u8
+ 
+#EXTINF:-1 tvg-id="tv3" group-title="Spain - ספרד" tvg-logo="",tv3
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="3/24" group-title="Spain - ספרד" tvg-logo="",3/24
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Esport3" group-title="Spain - ספרד" tvg-logo="",Esport3
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:es3_web/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="TV Galicia" group-title="Spain - ספרד" tvg-logo="",TV Galicia
+http://media3.crtvg.es/live/tvga/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-id="Antena 3" group-title="Spain - ספרד" tvg-logo="",Antena 3
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8
+ 
+#EXTINF:-1 tvg-id="lasexta" group-title="Spain - ספרד" tvg-logo="",lasexta
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8
+ 
+#EXTINF:-1 tvg-id="Real Madrid" group-title="Spain - ספרד" tvg-logo="",Real Madrid
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
+ 
+#EXTINF:-1 tvg-id="ATRESERIES" group-title="Spain - ספרד" tvg-logo="",ATRESERIES
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-b.m3u8?sd=10&rebase=on||X-Forwarded-For=194.224.72.187
+ 
+#EXTINF:-1 tvg-id="La Otra" group-title="Spain - ספרד" tvg-logo="",La Otra
+http://laotra-live.hls.adaptive.level3.net/hls-live/telemadrid-laotra/_definst_/live.m3u8
+ 
+#EXTINF:-1 tvg-id="TV Extremadura" group-title="Spain - ספרד" tvg-logo="",TV Extremadura
+http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b264000_DVR.m3u8
+ 
+#EXTINF:-1 tvg-id="tvge" group-title="Spain - ספרד" tvg-logo="",tvge
+rtmp://media3.crtvg.es:80/live playpath=tvge_2 swfUrl=http://www.crtvg.es/flow3/flowplayer.commercial.swf pageUrl=http://www.crtvg.es/tvg/tvg-en-directo
+ 
+#EXTINF:-1 tvg-id="TeleMadrid" group-title="Spain - ספרד" tvg-logo="http://images.gofreedownload.net/telemadrid-85154.jpg",TeleMadrid
+http://telemadrid-live.hls.adaptive.level3.net/hls-live/telemadrid-telemadridbis/_definst_/live.m3u8
+ 
+#EXTINF:-1 tvg-id="MEGA" group-title="Spain - ספרד" tvg-logo="",MEGA
+http://a3live-lh.akamaihd.net/i/mega/geomega_1@328914/index_4_av-p.m3u8
+ 
+#EXTINF:-1 tvg-id="andalucia" group-title="Spain - ספרד" tvg-logo="",andalucia
+http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
+ 
+#EXTINF:-1 tvg-id="C7 MURCIA" group-title="Spain - ספרד" tvg-logo="",C7 MURCIA
+http://hls0.80670-live0.dna.qbrick.com/80670-live0/murciatv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="TDN UNIVISION" group-title="Spain - ספרד" tvg-logo="",TDN UNIVISION
+http://stdephds-lh.akamaihd.net/i/ad3pst02hds_1@335205/index_1048_av-b.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 tvg-id="TV Pública" group-title="Argentina - ארגנטינה" tvg-logo="http://static-cdn2.ustream.tv/i/channel/picture/2/0/8/0/2080123/2080123_275_logomedio_12599415,192x192,r:1.jpg",TV Pública
+http://prepublish.f.qaotic.net/a06/ngrp:c7live02Internacional-20034_all/Playlist.m3u8|Referer=http://vmf.edge-apps.net&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:49.0) Gecko/20100101 Firefox/49.0&amp;origin=http://vmf.edge-apps.net&amp;Connection=keep-alive&amp;X-Forwarded-For=200.42.143.60
+ 
+#EXTINF:-1 tvg-id="Paka Paka" group-title="Argentina - ארגנטינה" tvg-logo="",Paka Paka
+http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
+ 
+#EXTINF:-1 tvg-id="One TV" group-title="Argentina - ארגנטינה" tvg-logo="",One TV
+http://server5.stweb.tv/radioone/live/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Canal Rural" group-title="Argentina - ארגנטינה" tvg-logo="",Canal Rural
+rtsp://streamrural.cmd.com.ar:554/liverural/crural/rural1
+ 
+#EXTINF:-1 tvg-id="DxTV" group-title="Argentina - ארגנטינה" tvg-logo="",DxTV
+http://186.33.227.199/DXTV/smil:DXTV.smil/chunklist_w788509661_b800000_slesp.m3u8
+ 
+#EXTINF:-1 tvg-id="C5N" group-title="Argentina - ארגנטינה" tvg-logo="http://www.buenosaires54.com/images/c5n1.jpg",C5N
+http://127.0.0.1:65007/?url=https%3A//www.youtube.com/watch%26v%3DfJUi-0L_8ZY&mode=3
+ 
+#EXTINF:-1 tvg-id="Canal 4 (Misiones)" group-title="Argentina - ארגנטינה" tvg-logo="",Canal 4 (Misiones)
+rtmp://184.154.28.210:1935/canal4/canal4
+ 
+#EXTINF:-1 tvg-id="DTV Diputados" group-title="Argentina - ארגנטינה" tvg-logo="",DTV Diputados
+http://lsdhcdnhls-lh.akamaihd.net/i/hcdnarsatHLS_2@301805/master.m3u8
+ 
+#EXTINF:-1 tvg-id="TVP" group-title="Argentina - ארגנטינה" tvg-logo="",TVP
+http://prepublish.f.qaotic.net/a02/ngrp:c7live01-20034_all/Playlist.m3u8|Referer=http://vmf.edge-apps.net&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:49.0) Gecko/20100101 Firefox/49.0&amp;origin=http://vmf.edge-apps.net&amp;Connection=keep-alive&amp;X-Forwarded-For=200.42.143.60
+ 
+#EXTINF:-1 tvg-id="el 13" group-title="Argentina - ארגנטינה" tvg-logo="",el 13
+http://prepublish.f.qaotic.net/a03/ngrp:el13_live01-100083_all/Playlist.m3u8|Referer=http://vmf.edge-apps.net&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:49.0) Gecko/20100101 Firefox/49.0&amp;origin=http://vmf.edge-apps.net&amp;Connection=keep-alive&amp;X-Forwarded-For=200.42.143.60
+ 
+#EXTINF:-1 tvg-id="AMERICA 24" group-title="Argentina - ארגנטינה" tvg-logo="http://3.bp.blogspot.com/-NesnOUZT0zY/Umg0HN_TZWI/AAAAAAAAaks/cDTGVN7fbM0/s76/a24-america-24.PNG",AMERICA 24
+http://prepublish.f.qaotic.net/epa/ngrp:americatvlive-100056_all/Playlist.m3u8|Referer=http://vmf.edge-apps.net&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:49.0) Gecko/20100101 Firefox/49.0&amp;origin=http://vmf.edge-apps.net&amp;Connection=keep-alive&amp;X-Forwarded-For=200.42.143.60
+ 
+#EXTINF:-1 tvg-id="Canal 26" group-title="Argentina - ארגנטינה" tvg-logo="",Canal 26
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w312671014_b1264000_sleng.m3u8
+ 
+#EXTINF:-1 tvg-id="TODO NOTICIAS" group-title="Argentina - ארגנטינה" tvg-logo="http://laalameda.files.wordpress.com/2012/02/tn.jpg",TODO NOTICIAS
+https://www.youtube.com/embed/wHn1_QVoXGM
+ 
+#EXTINF:-1 tvg-id="A24" group-title="Argentina - ארגנטינה" tvg-logo="",A24
+https://www.youtube.com/watch?v=Sh54vNR2QSo
+ 
+
+#EXTINF:-1 tvg-id="ORBE 21" group-title="Argentina - ארגנטינה" tvg-logo="",ORBE 21
+http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8
+ 
+#EXTINF:-1 tvg-id="Tecnopolis" group-title="Argentina - ארגנטינה" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Tec.png/250px-Tec.png",Tecnopolis
+http://tectvhls-lh.akamaihd.net/i/tectvHLS_1@334993/master.m3u8
+ 
+#EXTINF:-1 tvg-id="TELEMAX" group-title="Argentina - ארגנטינה" tvg-logo="",TELEMAX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Quiero Musica" group-title="Argentina - ארגנטינה" tvg-logo="",Quiero Musica
+mms://200.42.92.6:1755/qmusica
+ 
+#EXTINF:-1 tvg-id="Senal Provincial" group-title="Argentina - ארגנטינה" tvg-logo="",Senal Provincial
+http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
+
