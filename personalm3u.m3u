@@ -33,28 +33,6 @@ https://contact.gostreaming.tv/Knesset/myStream/chunklist_w2072850535.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://thumbs2.imagebam.com/bc/a0/fd/e23f51784878413.jpg" group-title="עידן+", YNET LIVE
 https://ynet-lh.akamaihd.net/i/ynet_1@123290/master.m3u8
 
- 
-#EXTINF:-1 tvg-id="TV Pública" group-title="Argentina - ארגנטינה" tvg-logo="http://static-cdn2.ustream.tv/i/channel/picture/2/0/8/0/2080123/2080123_275_logomedio_12599415,192x192,r:1.jpg",TV Pública
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1632114863/ei/T8RHYaufLfuB6dsPyKKPcA/ip/87.68.145.199/id/LGWYX8FwPqM.1/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAII-9fdrCe8NY8zf-23zzdT5s9tLTnjOsrBvSNiCHYq2AiAboCbAkRvgoAULRHNryMhcs2h6lfmOFUWbK-nyqO9YpA%3D%3D/file/index.m3u8
-  
-#EXTINF:-1 tvg-id="C5N" group-title="Argentina - ארגנטינה" tvg-logo="http://www.buenosaires54.com/images/c5n1.jpg",C5N
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1632114757/ei/5cNHYbCaDsmP1gLB04_oBQ/ip/87.68.145.199/id/NQqCjfFDWSQ.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgCNWu1NLKnY1PJ_Ck3JNy-lLOhxF6BWMVm9sI_zXgxSECIQCjPLetky6Bq0ZkLSTec9ATTAgJFZJqmFzBN9f_9tm5kQ%3D%3D/file/index.m3u8
- 
-#EXTINF:-1 tvg-id="el 13" group-title="Argentina - ארגנטינה" tvg-logo="",el 13
-https://tv7.mitele.uno/embed/mpd-tlf.php?canal=Trece&stream=/live/c3eds/ArtearHD/SA_Live_dash_enc_2A/ArtearHD.mpd"
 
-
-#EXTINF:-1 tvg-id="AMERICA 24" group-title="Argentina - ארגנטינה" tvg-logo="http://3.bp.blogspot.com/-NesnOUZT0zY/Umg0HN_TZWI/AAAAAAAAaks/cDTGVN7fbM0/s76/a24-america-24.PNG",AMERICA 24
-http://prepublish.f.qaotic.net/epa/ngrp:americatvlive-100056_all/Playlist.m3u8|Referer=http://vmf.edge-apps.net&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:49.0) Gecko/20100101 Firefox/49.0&amp;origin=http://vmf.edge-apps.net&amp;Connection=keep-alive&amp;X-Forwarded-For=200.42.143.60
- 
-#EXTINF:-1 tvg-id="Canal 26" group-title="Argentina - ארגנטינה" tvg-logo="",Canal 26
-http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w312671014_b1264000_sleng.m3u8
- 
-#EXTINF:-1 tvg-id="TODO NOTICIAS" group-title="Argentina - ארגנטינה" tvg-logo="http://laalameda.files.wordpress.com/2012/02/tn.jpg",TODO NOTICIAS
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1632114632/ei/aMNHYaeGFZPXgQeH6oHwCw/ip/87.68.145.199/id/wHn1_QVoXGM.4/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgF6GgHMtjK5VREOKF5CQx3LSNrO4NHTZ6tGIDs0Ck9fACIC-G8-xy8m6K3kwqRTKH9YyIf83G2d2RQGHcCJ1LPtEW/file/index.m3u8
- 
-#EXTINF:-1 tvg-id="A24" group-title="Argentina - ארגנטינה" tvg-logo="",A24
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1632114323/ei/M8JHYY-WAYeP1gL7pYToBw/ip/87.68.145.199/id/Sh54vNR2QSo.1/source/yt_live_broadcast/requiressl/yes/tx/24047099/txs/24047098%2C24047099%2C24047100%2C24047101%2C24047102%2C24047103%2C24047104/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/il/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhANzpMPXa8op3rUwXSp2ytMBamUm5f4Iz2zjs8gZGZFXuAiEAriMpFk393YE7X5PbXTrDv-dTTDB0V0l7tUKLx_-n9oE%3D/file/index.m3u8
- 
 
 
